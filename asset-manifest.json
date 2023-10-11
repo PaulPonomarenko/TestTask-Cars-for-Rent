@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/TestTask-Cars-for-Rent/static/css/main.7acaea2f.css",
-    "main.js": "/TestTask-Cars-for-Rent/static/js/main.c2793afb.js",
-    "static/js/415.cac97516.chunk.js": "/TestTask-Cars-for-Rent/static/js/415.cac97516.chunk.js",
-    "static/js/643.a5a93cc0.chunk.js": "/TestTask-Cars-for-Rent/static/js/643.a5a93cc0.chunk.js",
-    "static/js/716.2d76a2e5.chunk.js": "/TestTask-Cars-for-Rent/static/js/716.2d76a2e5.chunk.js",
+    "main.css": "/TestTask-Cars-for-Rent/static/css/main.737eef5d.css",
+    "main.js": "/TestTask-Cars-for-Rent/static/js/main.2890f738.js",
+    "static/js/415.b60bbdf4.chunk.js": "/TestTask-Cars-for-Rent/static/js/415.b60bbdf4.chunk.js",
+    "static/js/643.1fc2faa2.chunk.js": "/TestTask-Cars-for-Rent/static/js/643.1fc2faa2.chunk.js",
+    "static/js/732.e10a6d4b.chunk.js": "/TestTask-Cars-for-Rent/static/js/732.e10a6d4b.chunk.js",
     "static/js/279.e6c132bc.chunk.js": "/TestTask-Cars-for-Rent/static/js/279.e6c132bc.chunk.js",
+    "static/media/noImageAvailable.jpg": "/TestTask-Cars-for-Rent/static/media/noImageAvailable.9a3ecb413e743c27d998.jpg",
     "index.html": "/TestTask-Cars-for-Rent/index.html",
-    "main.7acaea2f.css.map": "/TestTask-Cars-for-Rent/static/css/main.7acaea2f.css.map",
-    "main.c2793afb.js.map": "/TestTask-Cars-for-Rent/static/js/main.c2793afb.js.map",
-    "415.cac97516.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/415.cac97516.chunk.js.map",
-    "643.a5a93cc0.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/643.a5a93cc0.chunk.js.map",
-    "716.2d76a2e5.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/716.2d76a2e5.chunk.js.map",
+    "main.737eef5d.css.map": "/TestTask-Cars-for-Rent/static/css/main.737eef5d.css.map",
+    "main.2890f738.js.map": "/TestTask-Cars-for-Rent/static/js/main.2890f738.js.map",
+    "415.b60bbdf4.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/415.b60bbdf4.chunk.js.map",
+    "643.1fc2faa2.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/643.1fc2faa2.chunk.js.map",
+    "732.e10a6d4b.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/732.e10a6d4b.chunk.js.map",
     "279.e6c132bc.chunk.js.map": "/TestTask-Cars-for-Rent/static/js/279.e6c132bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.c2793afb.js"
+    "static/css/main.737eef5d.css",
+    "static/js/main.2890f738.js"
   ]
 }
