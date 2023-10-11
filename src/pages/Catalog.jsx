@@ -3,9 +3,11 @@ import { CarsList } from 'components/CarsList/CarsList';
 
 const Catalog = () => {
   return (
-    <Container>
-      <CarsList />
-    </Container>
+    <main>
+      <Container>
+        <CarsList />
+      </Container>
+    </main>
   );
 };
 
